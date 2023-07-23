@@ -16,11 +16,11 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
-/*
-Program to find the square root for the given number(newton's method) using function.
-Developed by: Jai Surya
-RegisterNumber: 23002572 
-*/
+
+#Program to find the square root for the given number(newton's method) using function.
+#Developed by: Jai Surya
+#RegisterNumber: 23002572 
+
 
 n=int(input())
 approx=0.5*n
