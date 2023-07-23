@@ -31,7 +31,7 @@ print("Square root of the number:",approx)
 ```
 
 ## Output:
-![OUTPUT](/Screenshot%202023-07-23%20194643.png)
+![OUTPUT](/OUTPUT.png)
 
 
 ## Result:
